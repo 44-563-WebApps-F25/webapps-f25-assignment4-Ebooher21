@@ -43,3 +43,36 @@
 .both {
     color: indigo;
 }
+
+table {
+    border: solid 2px plum;
+    background-color: pink;
+    text-align: center;
+    margin: 50px;
+}
+
+table thead tr {
+    background-color: lavenderblush;
+    border-radius: 5px;
+}
+
+table thead tr th {
+    padding: 5px;
+}
+
+table tbody tr {
+    border-radius: 5px;
+}
+
+table tbody tr td {
+    padding: 5px;
+}
+
+table tbody tr:nth-child(even){
+    background-color: lavenderblush;
+}
+
+table tbody tr:nth-child(odd){
+    background-color: skyblue;
+}
+
