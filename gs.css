@@ -1,0 +1,41 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+
+.song {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    color: black;
+}
+
+.direction {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: smaller;
+    color: black;
+    background-color: lightcoral;
+}
+
+.direction:hover{
+    color:aliceblue;
+    background-color: blue;
+}
+
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: black;
+}
+
+.point {
+    color: skyblue;
+}
+
+.wilferd {
+    color: slategrey;
+}
+
+.both {
+    color: indigo;
+}
