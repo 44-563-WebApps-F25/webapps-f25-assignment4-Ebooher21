@@ -91,3 +91,27 @@ table tbody tr:nth-child(odd){
     background-color: skyblue;
 }
 
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: lavender;
+    border: wheat;
+}
+
+ul.navbar-horizontal li {
+    float:left; 
+    color: grey;
+    background-color: steelblue;
+}
+
+ul.navbar-horizontal a {
+    display: block;
+    color:#000;
+    padding:8px;
+}
+
+ul.navbar-horizontal a:hover {
+    background-color: #555;
+    color:white;
+}
